@@ -1,7 +1,8 @@
-import java.util.ArrayList;
 package assignment1;
 
-class Problem1{
+import java.util.ArrayList;
+
+public class Problem1{
     public static void main(String args[]){
         /*  Input: A 1000-digit number to search through
          *  Output: prints largest product of the at most n adjacent digits
